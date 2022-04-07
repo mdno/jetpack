@@ -81,7 +81,7 @@
     "gulp-uglify": "^2.1.2",
     "gulp-util": "^3.0.6",
     "history": "2.0.0",
-    "i18n-calypso": "github:automattic/i18n-calypso",
+    "i18n-calypso": "2.0.0",
     "jsdom": "^9.2.1",
     "jsdom-global": "^2.1.0",
     "jshint": "2.9.1",
@@ -100,10 +100,10 @@
     "react-tap-event-plugin": "0.2.1",
     "redux": "^3.3.1",
     "redux-thunk": "^2.0.1",
-    "sass-loader": "3.1.2",
+    "sass-loader": "6.0.7",
     "style-loader": "0.13",
     "url-loader": "^0.5.7",
-    "webpack": "1.12.9",
+    "webpack": "4.0.0",
     "whatwg-fetch": "^1.0.0"
   },
   "devDependencies": {
